@@ -1,0 +1,18 @@
+{
+  "name": "fabio-tracker",
+  "version": "1.0.0",
+  "description": "Tracker for Fabios ranked league games",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1"
+  }
+}
